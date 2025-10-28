@@ -6,7 +6,9 @@ Call me Brew
 ## I'm currently learning on
 - 🧘‍♂️ How to stop reconfiguring my system
 - 🙏 How to be grateful for the setup I already have
-- 🧩 How to get a-
+- 🧩 How to get a-- **Anyway**
+
+Im a Godot Game Developer
 <!--
 **brwxisme/brwxisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
