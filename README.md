@@ -6,7 +6,7 @@ Call me Brew
 ## I'm currently learning on
 - 🧘‍♂️ How to stop reconfiguring my system
 - 🙏 How to be grateful for the setup I already have
-- 🧩 How to get a-- **Anyway**
+- 🧩 How to get a-- **ANYWAY**
 
 Im a Godot Game Developer
 <!--
