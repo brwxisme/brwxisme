@@ -2,24 +2,40 @@
 My name is ~~Bangkit a.k.a Prabu Mangkutresno Sanesnigrat~~ 
 
 Call me Brew
+I'm a Godot developer who mainly works on gameplay systems, UI, mobile games, and rapid prototyping.
+I enjoy building systems that are clean, reusable, and easy to expand on later.
 
-## I'm currently learning on
-- 🧘🏻 How to stop reconfiguring my system
-- 😇 How to be grateful for the setup I already have
-- 🧩 How to get a-- **ANYWAY**
+## Things I Usually Work On
 
-**Im a Godot Game Developer** 🚀
-<!--
-**brwxisme/brwxisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Gameplay programming
+* UI implementation
+* Bug fixing
+* Mobile optimization
+* Rapid prototyping
+* Backend integration with Supabase
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Godot 4
+* GDScript
+* Supabase
+* PostgreSQL + RLS
+* Blender
+* Aseprite
+* Firebase
+* Android deployment
+
+## Published Games
+
+Google Play:
+https://play.google.com/store/apps/dev?id=5480356350925543600
+
+## Currently Interested In
+* Multiplayer systems
+* Backend architecture
+* UI/UX workflows in Godot
+* Procedural systems
+
+## Contact
+
+Discord: brwxisme
